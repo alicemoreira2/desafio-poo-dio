@@ -9,7 +9,6 @@
 
 <h3 align="center"> GFT Quality Assurance - Bootcamp DIO</h3>
 
-## Sobre:
   Bootcamp ideal para pessoas que se identificam como mulheres e que estão buscando uma primeira oportunidade no mercado de TI, migração de carreira ou até mesmo júniores em busca de crescimento profissional e uma maior oportunidade na GFT. Com o objetivo de ensinar e graduar até mesmo quem nunca viu nada sobre o assunto, o bootcamp chegou para ser uma excelente porta de entrada para quem deseja aprender de verdade e construir uma carreira na área de Quality Assurance.
   
 
