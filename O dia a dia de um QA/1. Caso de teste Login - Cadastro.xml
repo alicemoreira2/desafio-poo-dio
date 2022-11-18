@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>SWAG</projectKey>
+    <exportDate>2022-11-18 15:10:00 UTC</exportDate>
+    <folders>
+        <folder fullPath="Login" index="0"/>
+    </folders>
+    <testCases>
+        <testCase id="67028905" key="SWAG-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Andresa Borges Marques</createdBy>
+            <createdOn>2022-11-18 14:31:19 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente sem cadastro deseja criar uma conta]]></name>
+            <objective><![CDATA[Verificar funcionalidade de login]]></objective>
+            <owner>63777802f48fbd9b62d448ef</owner>
+            <precondition><![CDATA[N&atilde;o pode conter dados nulos]]></precondition>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Given que o cliente esteja na tela de login<br />And n&atilde;o esteja cadastrado no sistema, <br />When clicar em 'criar conta&quot;<br />Then redirecionado para a tela de cria&ccedil;&atilde;o de nova conta]]></description>
+                        <expectedResult><![CDATA[Usu&aacute;rio visualiza tela com as informa&ccedil;&otilde;es para realizar o cadastro]]></expectedResult>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[Usu&aacute;rio digita informa&ccedil;&otilde;es]]></description>
+                        <expectedResult><![CDATA[Registrar as informa&ccedil;&otilde;es em seus respectivos campos, que ser&atilde;o salvo no nosso bd para posteriores consultas]]></expectedResult>
+                        <testData><![CDATA[Nome completo, e-mail, telefone, endere&ccedil;o, cpf]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
