@@ -10,14 +10,20 @@ Revisar conceitos úteis para testes manuais no mundo ágil, bem como compreende
 
 ## Sobre:
 
+Idea para o projeto: Uma loja Vitrual <br />
+Metodologia ágil: Scrum <br />
+Gerenciamento de projeto: JIRA <br />
+Colaboração/ Documentação: Confluence <br />
+
+
 Utilizando o site [Swang Labs](https://www.saucedemo.com/), a User Story foi baseada na experiencia do cliente em relação a area de login.
 
 ## Cenário explorado:
 
-Cliente sem cadastro tenta fazer login:
-  Dado que o cliente esteja na tela de login / 
-  E adicione um “username” não cadastrado e quando clicar em “login” / 
-  Então uma mensagem surgirá avisando que a conta não existe
+Cliente sem cadastro tenta fazer login: <br />
+  Dado que o cliente esteja na tela de login <br /> 
+  E adicione um “username” não cadastrado e quando clicar em “login” <br /> 
+  Então uma mensagem surgirá avisando que a conta não existe <br />
 
 
  
