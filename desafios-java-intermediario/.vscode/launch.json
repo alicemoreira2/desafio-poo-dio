@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RPG",
+            "request": "launch",
+            "mainClass": "DesafioEmboscada.RPG",
+            "projectName": "desafios-java-intermediario_3264bc45"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diferenca",
+            "request": "launch",
+            "mainClass": "DiferencaEntreDigitos.Diferenca",
+            "projectName": "desafios-java-intermediario_3264bc45"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quantidade",
+            "request": "launch",
+            "mainClass": "QuantidadeNecessaria.Quantidade",
+            "projectName": "desafios-java-intermediario_3264bc45"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numero",
+            "request": "launch",
+            "mainClass": "NumeroFeliz.Numero",
+            "projectName": "desafios-java-intermediario_3264bc45"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PedraPapelTesoura",
+            "request": "launch",
+            "mainClass": "FlechaEscudoEspada.PedraPapelTesoura",
+            "projectName": "desafios-java-intermediario_3264bc45"
+        }
+    ]
+}
