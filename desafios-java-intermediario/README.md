@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/93685200/206669835-341d5957-b5e6-4778-9967-2c22fc2de561.png" alt="logo" height="350">
+    <img src="https://user-images.githubusercontent.com/93685200/202745493-3abc5c7f-9b1e-4152-9e8c-1d536fa49ca7.png" alt="logo" height="350">
 </h1>
 
 <h1 align="center">
