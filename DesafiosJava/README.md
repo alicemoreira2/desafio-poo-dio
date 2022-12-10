@@ -1,18 +1,27 @@
-## Getting Started
+<h1 align="center">
+  <br>
+    <img src="https://user-images.githubusercontent.com/93685200/202745493-3abc5c7f-9b1e-4152-9e8c-1d536fa49ca7.png" alt="logo" height="350">
+</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h1 align="center">
+  Desafio de Código
+</h1>
 
-## Folder Structure
+<h3 align="center"> Repositório criado para os desafios de códigos nível iniciante do bootcamp GFT Quality Assurance Para Mulheres da DIO.</h3>
+<br />
+<br />
 
-The workspace contains two folders by default, where:
+## 🚀 Tecnologias
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+<br />
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Links dos desafios 💻:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Fila [veja aqui](https://github.com/AndMqs/GFT_Quality_Assurance/tree/main/DesafiosJava/src/Fila)
+- Média de Idade [veja aqui](https://github.com/AndMqs/GFT_Quality_Assurance/tree/main/DesafiosJava/src/MediaDeIdade)
+- Descubra o Menor Múltiplo [veja aqui](https://github.com/AndMqs/GFT_Quality_Assurance/tree/main/DesafiosJava/src/MenorMultiplo)
+- Encontrando o Percentual de Desconto [veja aqui](https://github.com/AndMqs/GFT_Quality_Assurance/tree/main/DesafiosJava/src/Percentual)
+- Qual é o seu turno? [veja aqui](https://github.com/AndMqs/GFT_Quality_Assurance/tree/main/DesafiosJava/src/QualTurno)
