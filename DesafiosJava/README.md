@@ -7,7 +7,7 @@
   Desafio de Código
 </h1>
 
-<h3 align="center"> Repositório criado para os desafios de códigos nível iniciante do bootcamp GFT Quality Assurance Para Mulheres da DIO.</h3>
+<h3 align="center"> Repositório criado para o desafio de código nível iniciante do bootcamp GFT Quality Assurance Para Mulheres da DIO.</h3>
 <br />
 <br />
 
