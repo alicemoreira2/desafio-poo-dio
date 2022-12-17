@@ -29,6 +29,10 @@ Cliente sem cadastro tenta fazer login: <br />
   E adicione um “username” não cadastrado e quando clicar em “login” <br /> 
   Então uma mensagem surgirá avisando que a conta não existe <br />
 
+## Links úteis💻:
+
+1. [Jira](https://www.atlassian.com/br/software/jira)
+2. [Mind Map Miro](https://miro.com) 
 
  
 
