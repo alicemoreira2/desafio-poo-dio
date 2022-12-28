@@ -1,6 +1,6 @@
 
 
-> <B>⚠️ Esse Repositório ainda esta sob construção</B>
+> <B>⚠️ Esse Repositório </B>
 <h1 align="center">
 <h1 align="center">
   <br>
